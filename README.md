@@ -259,7 +259,8 @@ MIT License
 
 ## 👨‍💻 作者
 
-Created as a machine learning portfolio project
+Rita Lin - An AI engineer and project manager
+http://ritalinyutzu.vercel.app/
 
 2025 年 | 半導體製造缺陷預測
 
